@@ -1,7 +1,1 @@
-
-this is gurdeep singh changes from branch
-=======
-this is first line and committed to master
-this file is updated in branch
-this change in master after change in branch
-
+Every thig has been changed
